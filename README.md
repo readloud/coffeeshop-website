@@ -1,6 +1,6 @@
 # coffeshop
 
-![screenshot](Screenshot_2026-05-27_09_09_10.png)
+![preview](https://coffeeshop-website-7te39xnxk-readloud-s-projects.vercel.app/)
 
 ### Setup Project
 
