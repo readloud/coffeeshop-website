@@ -1,6 +1,6 @@
-# coffeshop
+# coffeeshop
 
-![preview](https://coffeeshop-website-7te39xnxk-readloud-s-projects.vercel.app/)
+Design tema warm & cozy dengan warna coklat dan cream yang aesthetic.
 
 ### Setup Project
 
@@ -51,7 +51,7 @@ Atau deploy ke Netlify:
 ✅ **Newsletter Subscription** - UI ready
 ✅ **Category Filters** - Interactive menu tabs
 
-## Customization yang Perlu Dilakukan:
+## Customization:
 
 1. **Ganti gambar** - Update URL gambar di komponen sesuai dengan foto asli coffeeshop
 2. **WhatsApp number** - Ubah `phoneNumber` di `WhatsAppButton.jsx`
